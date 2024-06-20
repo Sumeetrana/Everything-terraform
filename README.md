@@ -1,2 +1,2 @@
 # Everything-terraform
-Journal to learn about terraform
+Journaling my learning of Terraform
